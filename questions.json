@@ -1,0 +1,221 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What happens every morning in the poem?",
+    "options": [
+      "The students play outside.",
+      "The students prepare for school.",
+      "The students go home."
+    ],
+    "correct": 1,
+    "explanation": "The poem begins by describing how the students are getting ready to go to school: \"Every morning, out the door, Backpacks ready, shoes on the floor.\""
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "How do the students feel about learning?",
+    "options": [
+      "They find it boring.",
+      "It brings them delight.",
+      "They are unsure about it."
+    ],
+    "correct": 1,
+    "explanation": "In the first stanza, the poem says, \"Where learning brings us pure delight,\" showing that the students enjoy learning."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What do the students do in the classroom?",
+    "options": [
+      "They play games.",
+      "They watch movies.",
+      "They read and write."
+    ],
+    "correct": 2,
+    "explanation": "In the second stanza, the poem says, \"In our classroom, we read and write,\" which tells us that the students engage in reading and writing activities."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which subjects are mentioned in the poem?",
+    "options": [
+      "Math, art, and music.",
+      "History and science.",
+      "Geography and sports."
+    ],
+    "correct": 0,
+    "explanation": "In the second stanza, the poem mentions solving math problems and how art and music fill the air."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What do the students do at recess?",
+    "options": [
+      "They study more.",
+      "They run and play.",
+      "They read books."
+    ],
+    "correct": 1,
+    "explanation": "The poem says, \"At recess, we run and play,\" showing that the students enjoy outdoor activities during their break."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What is the tone of the poem?",
+    "options": [
+      "Sad and lonely",
+      "Happy and cheerful",
+      "Angry and frustrated"
+    ],
+    "correct": 1,
+    "explanation": "The tone of the poem is happy and cheerful. Words like \"smiles so bright,\" \"pure delight,\" and \"laughter fills the sunny day\" create a positive and joyful mood throughout the poem."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which part of the poem uses an example of imagery?",
+    "options": [
+      "\"We read and write\"",
+      "\"Backpacks ready, shoes on the floor\"",
+      "\"With friends, we giggle, jump, and cheer\""
+    ],
+    "correct": 2,
+    "explanation": "This line paints a picture in the reader's mind of children playing and laughing together. The action words \"giggle, jump, and cheer\" create a lively image of fun."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What does \"tone\" in a poem refer to?",
+    "options": [
+      "The rhyme scheme of the poem.",
+      "The feeling or emotion expressed in the poem.",
+      "The number of stanzas in the poem."
+    ],
+    "correct": 1,
+    "explanation": "The tone of a poem refers to the emotion or mood the poet is trying to convey. It could be happy, sad, playful, or serious. In this poem, the tone is joyful and cheerful, as shown by phrases like \"pure delight\" and \"smiles so bright.\""
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What does rhythm in a poem refer to?",
+    "options": [
+      "The pattern of beats or syllables in the poem.",
+      "The length of each stanza in the poem."
+    ],
+    "correct": 0,
+    "explanation": "Rhythm is the pattern of sounds, or beats, in a poem. It gives the poem a musical flow. For example, the first stanza of the poem has a steady rhythm with simple, flowing lines that make it easy and fun to read aloud."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Syllabel",
+      "Sylable",
+      "Syllable"
+    ],
+    "correct": 2,
+    "explanation": "The correct spelling is \"syllable,\" which refers to a unit of sound in a word. The other options, \"syllabel\" and \"sylable,\" are incorrect spellings."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "How do the students feel at recess?",
+    "options": [
+      "They feel tired.",
+      "They feel happy and playful.",
+      "They feel sad."
+    ],
+    "correct": 1,
+    "explanation": "The poem mentions \"Laughter fills the sunny day\" and \"With friends, we giggle, jump, and cheer,\" which shows they feel joyful."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What happens when the school day ends?",
+    "options": [
+      "The students stay at school.",
+      "The students go to the library.",
+      "The students go home."
+    ],
+    "correct": 2,
+    "explanation": "The poem states, \"When the bell rings, home we go,\" indicating that the school day is over, and the students are heading home."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What do the students do when they leave school?",
+    "options": [
+      "They play games outside.",
+      "They wave goodbye and walk slowly.",
+      "They run to the bus."
+    ],
+    "correct": 1,
+    "explanation": "The poem says, \"Waving goodbye, we’re walking slow,\" describing the students leaving school in a calm manner."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What is waiting for the students the next day?",
+    "options": [
+      "A new adventure at school.",
+      "A holiday.",
+      "A field trip."
+    ],
+    "correct": 0,
+    "explanation": "The last line of the poem says, \"Tomorrow’s waiting, just ahead,\" showing that the students are excited for another day of school."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "How do the students feel about school?",
+    "options": [
+      "They don’t like it.",
+      "They love it and have fun.",
+      "They feel bored."
+    ],
+    "correct": 1,
+    "explanation": "The poem expresses positive feelings towards school, mentioning joy, fun, and excitement throughout."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What do the students enjoy about learning?",
+    "options": [
+      "It brings them delight.",
+      "It makes them feel sleepy.",
+      "It’s very hard."
+    ],
+    "correct": 0,
+    "explanation": "In the first stanza, the poem specifically states, \"Where learning brings us pure delight,\" indicating that the students enjoy learning."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What do the students do when they have math problems?",
+    "options": [
+      "They solve them.",
+      "They ignore them.",
+      "They ask for help."
+    ],
+    "correct": 0,
+    "explanation": "The poem says, \"Solve math problems, big and light,\" showing that the students work on solving math problems."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What fills the air in the classroom?",
+    "options": [
+      "Laughter",
+      "Music and art",
+      "Silence"
+    ],
+    "correct": 1,
+    "explanation": "In the second stanza, the poem says, \"Art and music fill the air,\" showing that these activities are part of the classroom atmosphere."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the correct pair in this sentence:<br> \"They feel happy and excited.\"",
+    "options": [
+      "They: Noun",
+      "And: Preposition",
+      "Happy: Adjective"
+    ],
+    "correct": 2,
+    "explanation": "In this sentence, \"happy\" is an adjective describing how \"they\" feel. The word \"they\" is a pronoun, not a noun, and \"and\" is a conjunction, not a preposition."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct pair in this sentence: <br>\"It is full of fun and learning.\"",
+    "options": [
+      "It: Noun",
+      "And: Conjunction",
+      "Fun: Conjunction"
+    ],
+    "correct": 1,
+    "explanation": "In the sentence \"It is full of fun and learning,\" the word \"and\" is a conjunction because it connects the nouns \"fun\" and \"learning.\""
+  }
+]
